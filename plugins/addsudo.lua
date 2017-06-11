@@ -47,7 +47,7 @@ patterns = {
 run = h_k_a 
 }
 
--- تم التعديل و التعريب بواسطه @h_k_a
+-- تم التعديل و التعريب بواسطه @KNSLTHM
 
 --[[ @KNSLTHM
 @KNSLTHM
