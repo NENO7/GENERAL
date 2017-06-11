@@ -1,19 +1,19 @@
---[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+--[[ @KNSLTHM
+@KNSLTHM
+@KNSLTHM
+@NENO_CH
+@NENO_CH
+@NENO_CH
 --]]
 local function pre_process(msg) 
-local hka1 = 'hsaif:'..msg.to.id      --@h_k_a
+local hka1 = 'hsaif:'..msg.to.id      --@KNSLTHM
 local hka2 = 'hmooy:'..msg.to.id
-local hka4 = 'hmoha:'..msg.to.id    --@h_k_a
+local hka4 = 'hmoha:'..msg.to.id    --@KNSLTHM
 local hka5 = 'hhait:'..msg.to.id 
-local hka3 = 'hkab:'..msg.to.id  --@h_k_a
+local hka3 = 'hkab:'..msg.to.id  --@KNSLTHM
 local hka6 = 'hemad:'..msg.to.id
 local hka7 = 'htshk:'..msg.to.id
-local h_k_a8 = 'hnon:'..msg.to.id     --@h_k_a
+local h_k_a8 = 'hnon:'..msg.to.id     --@KNSLTHM
 local h_k_a9 = 'h_k:' ..msg.to.id
 local h_k_a10 = 'h_a:'..msg.to.id
 local h_k_a11 = 'haaah:'..msg.to.id
@@ -248,12 +248,12 @@ return {
     pre_process = pre_process
 }
 
---  تم الكتابه بواسطه @h_k_a
---  لا تغيير الحقوق .. الملف خاص قناه تشاكي  
---[[ 
-    _____    _        _    _    _____    Dev @lIMyIl 
-   |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
-     | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
-     | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
-     |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+--  تم الكتابه بواسطه @KNSLTHM
+--   .. الملف خاص قناه تشاكي  
+--[[ @KNSLTHM
+@KNSLTHM
+@KNSLTHM
+@NENO_CH
+@NENO_CH
+@NENO_CH
 --]]
